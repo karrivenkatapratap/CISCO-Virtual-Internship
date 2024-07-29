@@ -79,7 +79,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
-- **Email**: [shanmukh868@gmail.com](mailto:shanmukh868@gmail.com)
+- **Name**: Karri Venkata Pratap Reddy
+- **Email**: [kvpreddy21@gmail.com](mailto:kvpreddy21@gmail.com)
 
 
